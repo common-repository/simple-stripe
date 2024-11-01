@@ -1,0 +1,1085 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Stripe\n"
+"POT-Creation-Date: 2024-01-24 16:04+0900\n"
+"PO-Revision-Date: 2024-01-24 16:04+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: simple-stripe.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/admin-settings.php:19
+msgid "Stripe API key"
+msgstr "StripeのAPIキー"
+
+#: inc/admin-settings.php:21
+msgid "Mode"
+msgstr "モード"
+
+#: inc/admin-settings.php:22
+msgid "Test"
+msgstr "テスト"
+
+#: inc/admin-settings.php:23
+msgid "Live"
+msgstr "ライブ"
+
+#: inc/admin-settings.php:26 inc/admin-settings.php:34
+msgid "Publishable key"
+msgstr "公開可能キー"
+
+#: inc/admin-settings.php:26 inc/admin-settings.php:30
+msgid "(test)"
+msgstr "(テスト)"
+
+#: inc/admin-settings.php:27
+msgid "Test publishable key"
+msgstr "テスト環境用の公開可能キー"
+
+#: inc/admin-settings.php:30 inc/admin-settings.php:38
+msgid "Secret key"
+msgstr "シークレットキー"
+
+#: inc/admin-settings.php:31
+msgid "Test secret key"
+msgstr "テスト環境用のシークレットキー"
+
+#: inc/admin-settings.php:34 inc/admin-settings.php:38
+msgid "(live)"
+msgstr "(ライブ)"
+
+#: inc/admin-settings.php:35
+msgid "Live publishable key"
+msgstr "本番環境用の公開可能キー"
+
+#: inc/admin-settings.php:39
+msgid "Live secret key"
+msgstr "本番環境用のシークレットキー"
+
+#: inc/admin-settings.php:42
+msgid "Front end"
+msgstr "フロントエンド"
+
+#: inc/admin-settings.php:45 inc/admin-settings.php:46
+#: inc/admin-shortcode.php:43 inc/admin-shortcode.php:44
+msgid "Name"
+msgstr "名前"
+
+#: inc/admin-settings.php:49 inc/admin-settings.php:50
+#: inc/admin-shortcode.php:47 inc/admin-shortcode.php:48
+msgid "Description"
+msgstr "説明"
+
+#: inc/admin-settings.php:53 inc/admin-shortcode.php:28
+msgid "Currency"
+msgstr "通貨"
+
+#: inc/admin-settings.php:63 inc/admin-settings.php:64
+#: inc/admin-shortcode.php:39 inc/admin-shortcode.php:40
+msgid "Amount"
+msgstr "価格"
+
+#: inc/admin-settings.php:68 inc/admin-shortcode.php:84
+msgid "Amount adjustment"
+msgstr "価格の調整"
+
+#: inc/admin-settings.php:69 inc/admin-shortcode.php:86
+msgid "Freely"
+msgstr "自由"
+
+#: inc/admin-settings.php:70 inc/admin-shortcode.php:87
+msgid "Fixed"
+msgstr "固定"
+
+#: inc/admin-settings.php:73
+msgid "Minimum amount"
+msgstr "最少額"
+
+#: inc/admin-settings.php:73
+msgid "Enable when amount adjustment is freely"
+msgstr "価格設定が自由な場合に有効"
+
+#: inc/admin-settings.php:77 inc/admin-settings.php:78
+msgid "Payment button label"
+msgstr "支払うボタンのラベル"
+
+#: inc/admin-settings.php:81 inc/admin-shortcode.php:55
+msgid "Locale"
+msgstr "地域"
+
+#: inc/admin-settings.php:91 inc/admin-shortcode.php:66
+msgid "Shipping Address"
+msgstr "住所"
+
+#: inc/admin-settings.php:92 inc/admin-settings.php:97
+#: inc/admin-settings.php:102 inc/admin-shortcode.php:68
+#: inc/admin-shortcode.php:74 inc/admin-shortcode.php:80
+msgid "Enabled"
+msgstr "有効"
+
+#: inc/admin-settings.php:93 inc/admin-settings.php:98
+#: inc/admin-settings.php:103 inc/admin-shortcode.php:69
+#: inc/admin-shortcode.php:75 inc/admin-shortcode.php:81
+msgid "Disabled"
+msgstr "無効"
+
+#: inc/admin-settings.php:96 inc/admin-shortcode.php:72
+msgid "Zip code"
+msgstr "郵便番号"
+
+#: inc/admin-settings.php:101 inc/admin-shortcode.php:78
+msgid "Remember Me"
+msgstr "決済情報を保存する"
+
+#: inc/admin-settings.php:107
+msgid "Stripe Checkout"
+msgstr "Stripeチェックアウト"
+
+#: inc/admin-settings.php:109
+msgid "Legacy"
+msgstr "レガシー"
+
+#: inc/admin-settings.php:110
+msgid "New"
+msgstr "New"
+
+#: inc/admin-settings.php:114
+msgid "Redirect URL after successful payment"
+msgstr "決済完了後のリダイレクトURL"
+
+#: inc/admin-settings.php:119
+msgid "Stripe modal"
+msgstr "Stripeのモーダル"
+
+#: inc/admin-settings.php:119
+msgid "(Legacy version)"
+msgstr "(レガシーバージョン)"
+
+#: inc/admin-settings.php:121 inc/admin-shortcode.php:19
+msgid "Logo image"
+msgstr "ロゴ画像"
+
+#: inc/admin-settings.php:122 inc/admin-shortcode.php:20
+msgid "Clear"
+msgstr "消去"
+
+#: inc/admin-settings.php:125 inc/admin-shortcode.php:23
+msgid "Please select an image"
+msgstr "画像を選択してください"
+
+#: inc/admin-settings.php:134 inc/admin-shortcode.php:90
+msgid "Button label for opening modal"
+msgstr "モーダルを開くためのボタンのラベル"
+
+#: inc/admin-settings.php:135 inc/admin-shortcode.php:91
+msgid "Label of open button"
+msgstr "ボタンのラベル"
+
+#: inc/admin-settings.php:139
+msgid "Update"
+msgstr "更新"
+
+#: inc/admin-shortcode.php:9
+msgid "Basic shortcode"
+msgstr "基本のショートコード"
+
+#: inc/admin-shortcode.php:11 inc/admin-shortcode.php:16
+msgid "Copy"
+msgstr "コピー"
+
+#: inc/admin-shortcode.php:13
+msgid "Custom shortcode"
+msgstr "カスタムショートコード"
+
+#: inc/admin-shortcode.php:30 inc/admin-shortcode.php:57
+#: inc/admin-shortcode.php:67 inc/admin-shortcode.php:73
+#: inc/admin-shortcode.php:79 inc/admin-shortcode.php:85
+msgid "Default"
+msgstr "デフォルト"
+
+#: inc/admin-shortcode.php:51 inc/admin-shortcode.php:52
+msgid "Button Label"
+msgstr "ボタンのラベル"
+
+#: inc/admin.php:10
+msgid "Setting Up Simple Stripe"
+msgstr "Simple Stripeの設定"
+
+#: inc/admin.php:86 inc/admin.php:234
+msgid "Settings"
+msgstr "設定"
+
+#: inc/admin.php:87
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: inc/admin.php:120
+msgid "Settings updated successfully."
+msgstr "設定が正常に更新しました。"
+
+#: inc/admin.php:149
+msgid "Support Forum"
+msgstr "サポートフォーラム"
+
+#: inc/admin.php:165
+msgid "Auto"
+msgstr "オート"
+
+#: inc/admin.php:166
+msgid "Arabic"
+msgstr "アラビア語"
+
+#: inc/admin.php:167
+msgid "Bulgarian (Bulgaria)"
+msgstr "ブルガリア語(ブルガリア)"
+
+#: inc/admin.php:168
+msgid "Czech (Czech Republic)"
+msgstr "チェコ語(チェコ)"
+
+#: inc/admin.php:169
+msgid "Danish"
+msgstr "デンマーク語"
+
+#: inc/admin.php:170
+msgid "German (Germany)"
+msgstr "ドイツ語(ドイツ)"
+
+#: inc/admin.php:171
+msgid "Greek (Greece)"
+msgstr "ギリシャ語(ギリシャ)"
+
+#: inc/admin.php:172
+msgid "English"
+msgstr "英語"
+
+#: inc/admin.php:173
+msgid "English (United Kingdom)"
+msgstr "英語(イギリス)"
+
+#: inc/admin.php:174
+msgid "Spanish (Spain)"
+msgstr "スペイン語(スペイン)"
+
+#: inc/admin.php:175
+msgid "Spanish (Latin America)"
+msgstr "スペイン語(ラテンアメリカ)"
+
+#: inc/admin.php:176
+msgid "Estonian (Estonia)"
+msgstr "エストニア語(エストニア)"
+
+#: inc/admin.php:177
+msgid "Finnish (Finland)"
+msgstr "フィンランド語(フィンランド)"
+
+#: inc/admin.php:178
+msgid "Filipino (Philipines)"
+msgstr "フィリピン語（フィリピン）"
+
+#: inc/admin.php:179
+msgid "French (France)"
+msgstr "フランス語(フランス)"
+
+#: inc/admin.php:180
+msgid "French (Canada)"
+msgstr "フランス語(カナダ)"
+
+#: inc/admin.php:181
+msgid "Hebrew (Israel)"
+msgstr "ヘブライ語(イスラエル)"
+
+#: inc/admin.php:182
+msgid "Croatian (Croatia)"
+msgstr "クロアチア語 (クロアチア)"
+
+#: inc/admin.php:183
+msgid "Hungarian (Hungary)"
+msgstr "ハンガリー語(ハンガリー)"
+
+#: inc/admin.php:184
+msgid "Indonesian (Indonesia)"
+msgstr "インドネシア語(インドネシア)"
+
+#: inc/admin.php:185
+msgid "Italian (Italy)"
+msgstr "イタリア語(イタリア)"
+
+#: inc/admin.php:186
+msgid "Japanese"
+msgstr "日本語"
+
+#: inc/admin.php:187
+msgid "Korean (Korea)"
+msgstr "韓国語 (韓国)"
+
+#: inc/admin.php:188
+msgid "Lithuanian (Lithuania)"
+msgstr "リトアニア語(リトアニア)"
+
+#: inc/admin.php:189
+msgid "Latvian (Latvia)"
+msgstr "ラトビア語(ラトビア)"
+
+#: inc/admin.php:190
+msgid "Malay (Malaysia)"
+msgstr "マレー語(マレーシア)"
+
+#: inc/admin.php:191
+msgid "Maltese (Malta)"
+msgstr "マルタ語(マルタ)"
+
+#: inc/admin.php:192
+msgid "Norwegian Bokmål"
+msgstr "ノルウェー語"
+
+#: inc/admin.php:193
+msgid "Dutch (Netherlands)"
+msgstr "オランダ語(オランダ)"
+
+#: inc/admin.php:194
+msgid "Polish (Poland)"
+msgstr "ポーランド語(ポーランド)"
+
+#: inc/admin.php:195 inc/admin.php:196
+msgid "Portuguese (Brazil)"
+msgstr "ポルトガル語(ブラジル)"
+
+#: inc/admin.php:197
+msgid "Romanian (Romania)"
+msgstr "ルーマニア語(ルーマニア)"
+
+#: inc/admin.php:198
+msgid "Russian (Russia)"
+msgstr "ロシア語(ロシア)"
+
+#: inc/admin.php:199
+msgid "Slovak (Slovakia)"
+msgstr "スロバキア語(スロバキア)"
+
+#: inc/admin.php:200
+msgid "Slovenian (Slovenia)"
+msgstr "スロベニア語(スロベニア)"
+
+#: inc/admin.php:201
+msgid "Swedish (Sweden)"
+msgstr "スウェーデン語(スウェーデン)"
+
+#: inc/admin.php:202
+msgid "Thai"
+msgstr "タイ"
+
+#: inc/admin.php:203
+msgid "Turkish (Turkey)"
+msgstr "トルコ語(トルコ)"
+
+#: inc/admin.php:204
+msgid "Vietnamese (Vietnam)"
+msgstr "ベトナム語 (ベトナム)"
+
+#: inc/admin.php:205
+msgid "Chinese Simplified (China)"
+msgstr "簡体字中国語 (中国)"
+
+#: inc/admin.php:206
+msgid "Chinese Traditional (Hong Kong)"
+msgstr "繁体字中国語 (香港)"
+
+#: inc/admin.php:207
+msgid "Chinese Traditional (Taiwan)"
+msgstr "繁体字中国語 (台湾)"
+
+#: inc/admin.php:221
+msgid "Select image"
+msgstr "画像を選択"
+
+#: inc/admin.php:222
+msgid "Copied"
+msgstr "コピーしました"
+
+#: inc/admin.php:277
+msgid "Have a great day"
+msgstr "よい1日を"
+
+#: inc/admin.php:281 inc/shortcode.php:66
+msgid "Pay"
+msgstr "支払う"
+
+#: inc/ajax.php:48
+msgid "Settings for this payment are incomplete."
+msgstr "この支払いの設定は不完全です。"
+
+#: inc/ajax.php:93
+msgid "We couldn't payment due to network problems."
+msgstr "ネットワークの問題により、支払いができませんでした。"
+
+#: inc/ajax.php:93 inc/ajax.php:103
+msgid "Please try again later."
+msgstr "後でもう一度やり直してください。"
+
+#: inc/ajax.php:98
+msgid "We couldn't payment due to a program error."
+msgstr "プログラムエラーのため、支払いができませんでした。"
+
+#: inc/ajax.php:103
+msgid "Stripe's server is down."
+msgstr "Stripeのサーバーがダウンしています。"
+
+#: inc/ajax.php:108
+msgid "Card company has stopped payment."
+msgstr "カード会社が支払いを停止しました。"
+
+#: inc/ajax.php:127
+msgid "The payment failed for an unknown reason."
+msgstr "不明な理由で支払いが失敗しました。"
+
+#: inc/currencies.php:7
+msgid "US Dollar"
+msgstr "米ドル"
+
+#: inc/currencies.php:8
+msgid "UAE Dirham"
+msgstr "アラブ首長国連邦ディルハム"
+
+#: inc/currencies.php:9
+msgid "Afghani"
+msgstr "アフガニ"
+
+#: inc/currencies.php:10
+msgid "Lek"
+msgstr "レク"
+
+#: inc/currencies.php:11
+msgid "Armenian Dram"
+msgstr "アルメニアドラム"
+
+#: inc/currencies.php:12
+msgid "Netherlands Antillean Guilder"
+msgstr "オランダ領アンティルギルダー"
+
+#: inc/currencies.php:13
+msgid "Kwanza"
+msgstr "クワンザ"
+
+#: inc/currencies.php:14
+msgid "Argentine Peso"
+msgstr "アルゼンチンペソ"
+
+#: inc/currencies.php:15
+msgid "Australian Dollar"
+msgstr "豪ドル"
+
+#: inc/currencies.php:16
+msgid "Aruban Florin"
+msgstr "アルバンフロリン"
+
+#: inc/currencies.php:17
+msgid "Azerbaijanian Manat"
+msgstr "アゼルバイジャンマナット"
+
+#: inc/currencies.php:18
+msgid "Convertible Mark"
+msgstr "コンバーチブルマーク"
+
+#: inc/currencies.php:19
+msgid "Barbados Dollar"
+msgstr "バルバドスドル"
+
+#: inc/currencies.php:20
+msgid "Taka"
+msgstr "タカ"
+
+#: inc/currencies.php:21
+msgid "Bulgarian Lev"
+msgstr "ブルガリアレフ"
+
+#: inc/currencies.php:22
+msgid "Burundi Franc"
+msgstr "ブルンジフラン"
+
+#: inc/currencies.php:23
+msgid "Bermudian Dollar"
+msgstr "バミューダドル"
+
+#: inc/currencies.php:24
+msgid "Brunei Dollar"
+msgstr "ブルネイドル"
+
+#: inc/currencies.php:25
+msgid "Boliviano"
+msgstr "ボリビアノ"
+
+#: inc/currencies.php:26
+msgid "Brazilian Real"
+msgstr "ブラジルレアル"
+
+#: inc/currencies.php:27
+msgid "Bahamian Dollar"
+msgstr "バハマドル"
+
+#: inc/currencies.php:28
+msgid "Pula"
+msgstr "プーラ"
+
+#: inc/currencies.php:29
+msgid "Belarusian Ruble"
+msgstr "ベラルーシルーブル"
+
+#: inc/currencies.php:30
+msgid "Belize Dollar"
+msgstr "ベリーズドル"
+
+#: inc/currencies.php:31
+msgid "Canadian Dollar"
+msgstr "カナダドル"
+
+#: inc/currencies.php:32
+msgid "Congolese Franc"
+msgstr "コンゴフラン"
+
+#: inc/currencies.php:33
+msgid "Swiss Franc"
+msgstr "スイスフラン"
+
+#: inc/currencies.php:34
+msgid "Chilean Peso"
+msgstr "チリペソ"
+
+#: inc/currencies.php:35
+msgid "Yuan Renminbi"
+msgstr "人民元"
+
+#: inc/currencies.php:36
+msgid "Colombian Peso"
+msgstr "コロンビアペソ"
+
+#: inc/currencies.php:37
+msgid "Costa Rican Colon"
+msgstr "コスタリカコロン"
+
+#: inc/currencies.php:38
+msgid "Cape Verde Escudo"
+msgstr "カーボベルデ・エスクード"
+
+#: inc/currencies.php:39
+msgid "Czech Koruna"
+msgstr "チェココルナ"
+
+#: inc/currencies.php:40
+msgid "Djibouti Franc"
+msgstr "ジブチフラン"
+
+#: inc/currencies.php:41
+msgid "Danish Krone"
+msgstr "デンマーククローネ"
+
+#: inc/currencies.php:42
+msgid "Dominican Peso"
+msgstr "ドミニカペソ"
+
+#: inc/currencies.php:43
+msgid "Algerian Dinar"
+msgstr "アルジェリアディナール"
+
+#: inc/currencies.php:44
+msgid "Egyptian Pound"
+msgstr "エジプトポンド"
+
+#: inc/currencies.php:45
+msgid "Ethiopian Birr"
+msgstr "エチオピアブル"
+
+#: inc/currencies.php:46
+msgid "Euro"
+msgstr "ユーロ"
+
+#: inc/currencies.php:47
+msgid "Fiji Dollar"
+msgstr "フィジードル"
+
+#: inc/currencies.php:48
+msgid "Falkland Islands Pound"
+msgstr "フォークランド諸島ポンド"
+
+#: inc/currencies.php:49
+msgid "Pound Sterling"
+msgstr "英ポンド"
+
+#: inc/currencies.php:50
+msgid "Lari"
+msgstr "ラリ"
+
+#: inc/currencies.php:51
+msgid "Gibraltar Pound"
+msgstr "ジブラルタルポンド"
+
+#: inc/currencies.php:52
+msgid "Dalasi"
+msgstr "ダラシ"
+
+#: inc/currencies.php:53
+msgid "Guinea Franc"
+msgstr "ギニアフラン"
+
+#: inc/currencies.php:54
+msgid "Quetzal"
+msgstr "ケツァル"
+
+#: inc/currencies.php:55
+msgid "Guyana Dollar"
+msgstr "ガイアナドル"
+
+#: inc/currencies.php:56
+msgid "Hong Kong Dollar"
+msgstr "香港ドル"
+
+#: inc/currencies.php:57
+msgid "Lempira"
+msgstr "レンピラ"
+
+#: inc/currencies.php:58
+msgid "Kuna"
+msgstr "クナ"
+
+#: inc/currencies.php:59
+msgid "Gourde"
+msgstr "グールド"
+
+#: inc/currencies.php:60
+msgid "Forint"
+msgstr "フォリント"
+
+#: inc/currencies.php:61
+msgid "Rupiah"
+msgstr "ルピア"
+
+#: inc/currencies.php:62
+msgid "Israeli new shekel"
+msgstr "新シェケル"
+
+#: inc/currencies.php:63
+msgid "Indian Rupee"
+msgstr "インドルピー"
+
+#: inc/currencies.php:64
+msgid "Iceland Krona"
+msgstr "アイスランドクローナ"
+
+#: inc/currencies.php:65
+msgid "Jamaican Dollar"
+msgstr "ジャマイカドル"
+
+#: inc/currencies.php:66
+msgid "Yen"
+msgstr "円"
+
+#: inc/currencies.php:67
+msgid "Kenyan Shilling"
+msgstr "ケニアシリング"
+
+#: inc/currencies.php:68
+msgid "Som"
+msgstr "ソム"
+
+#: inc/currencies.php:69
+msgid "Riel"
+msgstr "リエル"
+
+#: inc/currencies.php:70
+msgid "Comoro Franc"
+msgstr "コモロフラン"
+
+#: inc/currencies.php:71
+msgid "Won"
+msgstr "ウォン"
+
+#: inc/currencies.php:72
+msgid "Cayman Islands Dollar"
+msgstr "ケイマン諸島ドル"
+
+#: inc/currencies.php:73
+msgid "Tenge"
+msgstr "テンゲ"
+
+#: inc/currencies.php:74
+msgid "Kip"
+msgstr "キップ"
+
+#: inc/currencies.php:75
+msgid "Lebanese Pound"
+msgstr "レバノンポンド"
+
+#: inc/currencies.php:76
+msgid "Sri Lanka Rupee"
+msgstr "スリランカルピー"
+
+#: inc/currencies.php:77
+msgid "Liberian Dollar"
+msgstr "リベリアドル"
+
+#: inc/currencies.php:78
+msgid "Loti"
+msgstr "ロティ"
+
+#: inc/currencies.php:79
+msgid "Moroccan Dirham"
+msgstr "モロッコディルハム"
+
+#: inc/currencies.php:80
+msgid "Moldovan Leu"
+msgstr "モルドバレイ"
+
+#: inc/currencies.php:81
+msgid "Malagasy Ariary"
+msgstr "マダガスカル・アリアリ"
+
+#: inc/currencies.php:82
+msgid "Denar"
+msgstr "マケドニア・デナール"
+
+#: inc/currencies.php:83
+msgid "Kyat"
+msgstr "チャット"
+
+#: inc/currencies.php:84
+msgid "Tugrik"
+msgstr "トゥグルグ"
+
+#: inc/currencies.php:85
+msgid "Pataca"
+msgstr "パタカ"
+
+#: inc/currencies.php:86
+msgid "Mauritanian ouguiya"
+msgstr "モーリタニアウギア"
+
+#: inc/currencies.php:87
+msgid "Mauritius Rupee"
+msgstr "モーリシャスルピー"
+
+#: inc/currencies.php:88
+msgid "Rufiyaa"
+msgstr "ルフィア"
+
+#: inc/currencies.php:89
+msgid "Kwacha"
+msgstr "クワチャ"
+
+#: inc/currencies.php:90
+msgid "Mexican Peso"
+msgstr "メキシコペソ"
+
+#: inc/currencies.php:91
+msgid "Malaysian Ringgit"
+msgstr "マレーシアリンギット"
+
+#: inc/currencies.php:92
+msgid "Mozambique Metical"
+msgstr "モザンビークメタリック"
+
+#: inc/currencies.php:93
+msgid "Namibia Dollar"
+msgstr "ナミビアドル"
+
+#: inc/currencies.php:94
+msgid "Naira"
+msgstr "ナイラ"
+
+#: inc/currencies.php:95
+msgid "Cordoba Oro"
+msgstr "コルドバオロ"
+
+#: inc/currencies.php:96
+msgid "Norwegian Krone"
+msgstr "ノルウェークローネ"
+
+#: inc/currencies.php:97
+msgid "Nepalese Rupee"
+msgstr "ネパールルピー"
+
+#: inc/currencies.php:98
+msgid "New Zealand Dollar"
+msgstr "ニュージーランドドル"
+
+#: inc/currencies.php:99
+msgid "Balboa"
+msgstr "バルボア"
+
+#: inc/currencies.php:100
+msgid "Peruvian sol"
+msgstr "ペルーソル"
+
+#: inc/currencies.php:101
+msgid "Kina"
+msgstr "キナ"
+
+#: inc/currencies.php:102
+msgid "Philippine Peso"
+msgstr "フィリピンペソ"
+
+#: inc/currencies.php:103
+msgid "Pakistan Rupee"
+msgstr "パキスタンルピー"
+
+#: inc/currencies.php:104
+msgid "Zloty"
+msgstr "ズロチ"
+
+#: inc/currencies.php:105
+msgid "Guarani"
+msgstr "グアラニ"
+
+#: inc/currencies.php:106
+msgid "Qatari Rial"
+msgstr "カタールリアル"
+
+#: inc/currencies.php:107
+msgid "Romanian Leu"
+msgstr "ルーマニアレイ"
+
+#: inc/currencies.php:108
+msgid "Serbian Dinar"
+msgstr "セルビアディナール"
+
+#: inc/currencies.php:109
+msgid "Russian Ruble"
+msgstr "ロシアルーブル"
+
+#: inc/currencies.php:110
+msgid "Rwanda Franc"
+msgstr "ルワンダフラン"
+
+#: inc/currencies.php:111
+msgid "Saudi Riyal"
+msgstr "サウジリヤル"
+
+#: inc/currencies.php:112
+msgid "Solomon Islands Dollar"
+msgstr "ソロモン諸島ドル"
+
+#: inc/currencies.php:113
+msgid "Seychelles Rupee"
+msgstr "セイシェルルピー"
+
+#: inc/currencies.php:114
+msgid "Swedish Krona"
+msgstr "スウェーデンクローナ"
+
+#: inc/currencies.php:115
+msgid "Singapore Dollar"
+msgstr "シンガポールドル"
+
+#: inc/currencies.php:116
+msgid "Saint Helena Pound"
+msgstr "セントヘレナポンド"
+
+#: inc/currencies.php:117
+msgid "Leone"
+msgstr "レオーネ"
+
+#: inc/currencies.php:118
+msgid "Somali Shilling"
+msgstr "ソマリアシリング"
+
+#: inc/currencies.php:119
+msgid "Surinamese Dollar"
+msgstr "スリナムドル"
+
+#: inc/currencies.php:120
+msgid "Dobra"
+msgstr "ドブラ"
+
+#: inc/currencies.php:121
+msgid "Lilangeni"
+msgstr "リランジェニ"
+
+#: inc/currencies.php:122
+msgid "Baht"
+msgstr "バーツ"
+
+#: inc/currencies.php:123
+msgid "Somoni"
+msgstr "ソモニ"
+
+#: inc/currencies.php:124
+msgid "Pa’anga"
+msgstr "パアンガ"
+
+#: inc/currencies.php:125
+msgid "Turkish Lira"
+msgstr "トルコリラ"
+
+#: inc/currencies.php:126
+msgid "Trinidad and Tobago Dollar"
+msgstr "トリニダードトバゴドル"
+
+#: inc/currencies.php:127
+msgid "New Taiwan Dollar"
+msgstr "新台湾ドル"
+
+#: inc/currencies.php:128
+msgid "Tanzanian Shilling"
+msgstr "タンザニアシリング"
+
+#: inc/currencies.php:129
+msgid "Hryvnia"
+msgstr "フリヴニャ"
+
+#: inc/currencies.php:130
+msgid "Uganda Shilling"
+msgstr "ウガンダシリング"
+
+#: inc/currencies.php:131
+msgid "Peso Uruguayo"
+msgstr "ペソウルグアイ"
+
+#: inc/currencies.php:132
+msgid "Uzbekistan Som"
+msgstr "ウズベキスタンソム"
+
+#: inc/currencies.php:133
+msgid "Dong"
+msgstr "ドン"
+
+#: inc/currencies.php:134
+msgid "Vatu"
+msgstr "バツ"
+
+#: inc/currencies.php:135
+msgid "Tala"
+msgstr "タラ"
+
+#: inc/currencies.php:136
+msgid "CFA Franc BEAC"
+msgstr "中部アフリカ CFA フラン"
+
+#: inc/currencies.php:137
+msgid "East Caribbean Dollar"
+msgstr "東カリブ・ドル"
+
+#: inc/currencies.php:138
+msgid "CFA Franc BCEAO"
+msgstr "西アフリカCFAフラン"
+
+#: inc/currencies.php:139
+msgid "CFP Franc"
+msgstr "CFPフラン"
+
+#: inc/currencies.php:140
+msgid "Yemeni Rial"
+msgstr "イエメンリアル"
+
+#: inc/currencies.php:141
+msgid "Rand"
+msgstr "ランド"
+
+#: inc/currencies.php:142
+msgid "Zambian Kwacha"
+msgstr "ザンビアクワチャ"
+
+#: inc/shortcode.php:95
+msgid "Credit or debit card"
+msgstr "クレジットカードまたはデビットカード"
+
+#: inc/shortcode.php:130
+msgid "Payment was successful"
+msgstr "お支払いは成功しました"
+
+#: inc/shortcode.php:131
+msgid "Payment failed"
+msgstr "お支払いは失敗しました"
+
+#: inc/shortcode.php:132
+msgid "Connecting..."
+msgstr "通信中..."
+
+#: inc/shortcode.php:133
+msgid "Falls below the minimum amount prescribed by Stripe."
+msgstr "Stripeによって規定された最小金額を下回ります。"
+
+#. Plugin Name of the plugin/theme
+msgid "Simple Stripe"
+msgstr "Simple Stripe"
+
+#. Plugin URI of the plugin/theme
+msgid "https://dev.back2nature.jp/en/simple-stripe/"
+msgstr "https://dev.back2nature.jp/simple-stripe/"
+
+#. Description of the plugin/theme
+msgid ""
+"Just register your Stripe API key and use the shortcode.You can easily make "
+"a payment page anywhere."
+msgstr ""
+"StripeのAPIキーを登録して、ショートコードを使うだけ。どこでも簡単に支払い"
+"ページが作れます。"
+
+#. Author of the plugin/theme
+msgid "YAHMAN"
+msgstr "やーまん"
+
+#. Author URI of the plugin/theme
+msgid "https://back2nature.jp/en/"
+msgstr "https://back2nature.jp/"
+
+#~ msgid "https://back2nature.jp/"
+#~ msgstr "https://back2nature.jp/"
+
+#~ msgid "Using legacy version for Checkout"
+#~ msgstr "チェックアウトにレガシーバージョンを使用する"
+
+#~ msgid "https://back2nature.jp/plugins/simple-stripe"
+#~ msgstr "https://back2nature.jp/plugins/simple-stripe"
+
+#~ msgid ""
+#~ "Just register your Stripe API key and use the shortcode. You can easily "
+#~ "make a payment page anywhere."
+#~ msgstr ""
+#~ "StripeのAPIキーを登録して、ショートコードを使うだけ。どこでも簡単に支払い"
+#~ "ページが作れます。"
+
+#~ msgid ""
+#~ "Simple Stripe is completed by registering the API key and entering the "
+#~ "shortcode."
+#~ msgstr ""
+#~ "Simple Stripeは、APIキーを登録し、ショートコードを入力するだけで完成しま"
+#~ "す。"
+
+#~ msgid "Stripe detects the locale of the browser"
+#~ msgstr "Stripeがブラウザの地域を検出します"
+
+#~ msgid "Donate"
+#~ msgstr "寄付"
+
+#~ msgid "Thank you for donating to %s"
+#~ msgstr "%sに寄付していただきありがとうございます"
+
+#~ msgid "Israeli shekel"
+#~ msgstr "新シェケル"
+
+#~ msgid "Stripe API"
+#~ msgstr "StripeのAPI"
+
+#~ msgid ""
+#~ "Simple Stripe is completed just by registering the Stripe code you are "
+#~ "using and entering the short code."
+#~ msgstr ""
+#~ "Simple Stripeは、使用しているStripeコードを登録し、ショートコードを入力す"
+#~ "るだけで完成します。"
+
+#~ msgid "Stripe api"
+#~ msgstr "Stripeのapi"
+
+#~ msgid "No image"
+#~ msgstr "画像無し"

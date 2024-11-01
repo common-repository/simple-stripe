@@ -1,0 +1,1032 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Stripe\n"
+"POT-Creation-Date: 2024-01-24 16:04+0900\n"
+"PO-Revision-Date: 2020-07-24 20:36+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: simple-stripe.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/admin-settings.php:19
+msgid "Stripe API key"
+msgstr ""
+
+#: inc/admin-settings.php:21
+msgid "Mode"
+msgstr ""
+
+#: inc/admin-settings.php:22
+msgid "Test"
+msgstr ""
+
+#: inc/admin-settings.php:23
+msgid "Live"
+msgstr ""
+
+#: inc/admin-settings.php:26 inc/admin-settings.php:34
+msgid "Publishable key"
+msgstr ""
+
+#: inc/admin-settings.php:26 inc/admin-settings.php:30
+msgid "(test)"
+msgstr ""
+
+#: inc/admin-settings.php:27
+msgid "Test publishable key"
+msgstr ""
+
+#: inc/admin-settings.php:30 inc/admin-settings.php:38
+msgid "Secret key"
+msgstr ""
+
+#: inc/admin-settings.php:31
+msgid "Test secret key"
+msgstr ""
+
+#: inc/admin-settings.php:34 inc/admin-settings.php:38
+msgid "(live)"
+msgstr ""
+
+#: inc/admin-settings.php:35
+msgid "Live publishable key"
+msgstr ""
+
+#: inc/admin-settings.php:39
+msgid "Live secret key"
+msgstr ""
+
+#: inc/admin-settings.php:42
+msgid "Front end"
+msgstr ""
+
+#: inc/admin-settings.php:45 inc/admin-settings.php:46
+#: inc/admin-shortcode.php:43 inc/admin-shortcode.php:44
+msgid "Name"
+msgstr ""
+
+#: inc/admin-settings.php:49 inc/admin-settings.php:50
+#: inc/admin-shortcode.php:47 inc/admin-shortcode.php:48
+msgid "Description"
+msgstr ""
+
+#: inc/admin-settings.php:53 inc/admin-shortcode.php:28
+msgid "Currency"
+msgstr ""
+
+#: inc/admin-settings.php:63 inc/admin-settings.php:64
+#: inc/admin-shortcode.php:39 inc/admin-shortcode.php:40
+msgid "Amount"
+msgstr ""
+
+#: inc/admin-settings.php:68 inc/admin-shortcode.php:84
+msgid "Amount adjustment"
+msgstr ""
+
+#: inc/admin-settings.php:69 inc/admin-shortcode.php:86
+msgid "Freely"
+msgstr ""
+
+#: inc/admin-settings.php:70 inc/admin-shortcode.php:87
+msgid "Fixed"
+msgstr ""
+
+#: inc/admin-settings.php:73
+msgid "Minimum amount"
+msgstr ""
+
+#: inc/admin-settings.php:73
+msgid "Enable when amount adjustment is freely"
+msgstr ""
+
+#: inc/admin-settings.php:77 inc/admin-settings.php:78
+msgid "Payment button label"
+msgstr ""
+
+#: inc/admin-settings.php:81 inc/admin-shortcode.php:55
+msgid "Locale"
+msgstr ""
+
+#: inc/admin-settings.php:91 inc/admin-shortcode.php:66
+msgid "Shipping Address"
+msgstr ""
+
+#: inc/admin-settings.php:92 inc/admin-settings.php:97
+#: inc/admin-settings.php:102 inc/admin-shortcode.php:68
+#: inc/admin-shortcode.php:74 inc/admin-shortcode.php:80
+msgid "Enabled"
+msgstr ""
+
+#: inc/admin-settings.php:93 inc/admin-settings.php:98
+#: inc/admin-settings.php:103 inc/admin-shortcode.php:69
+#: inc/admin-shortcode.php:75 inc/admin-shortcode.php:81
+msgid "Disabled"
+msgstr ""
+
+#: inc/admin-settings.php:96 inc/admin-shortcode.php:72
+msgid "Zip code"
+msgstr ""
+
+#: inc/admin-settings.php:101 inc/admin-shortcode.php:78
+msgid "Remember Me"
+msgstr ""
+
+#: inc/admin-settings.php:107
+msgid "Stripe Checkout"
+msgstr ""
+
+#: inc/admin-settings.php:109
+msgid "Legacy"
+msgstr ""
+
+#: inc/admin-settings.php:110
+msgid "New"
+msgstr ""
+
+#: inc/admin-settings.php:114
+msgid "Redirect URL after successful payment"
+msgstr ""
+
+#: inc/admin-settings.php:119
+msgid "Stripe modal"
+msgstr ""
+
+#: inc/admin-settings.php:119
+msgid "(Legacy version)"
+msgstr ""
+
+#: inc/admin-settings.php:121 inc/admin-shortcode.php:19
+msgid "Logo image"
+msgstr ""
+
+#: inc/admin-settings.php:122 inc/admin-shortcode.php:20
+msgid "Clear"
+msgstr ""
+
+#: inc/admin-settings.php:125 inc/admin-shortcode.php:23
+msgid "Please select an image"
+msgstr ""
+
+#: inc/admin-settings.php:134 inc/admin-shortcode.php:90
+msgid "Button label for opening modal"
+msgstr ""
+
+#: inc/admin-settings.php:135 inc/admin-shortcode.php:91
+msgid "Label of open button"
+msgstr ""
+
+#: inc/admin-settings.php:139
+msgid "Update"
+msgstr ""
+
+#: inc/admin-shortcode.php:9
+msgid "Basic shortcode"
+msgstr ""
+
+#: inc/admin-shortcode.php:11 inc/admin-shortcode.php:16
+msgid "Copy"
+msgstr ""
+
+#: inc/admin-shortcode.php:13
+msgid "Custom shortcode"
+msgstr ""
+
+#: inc/admin-shortcode.php:30 inc/admin-shortcode.php:57
+#: inc/admin-shortcode.php:67 inc/admin-shortcode.php:73
+#: inc/admin-shortcode.php:79 inc/admin-shortcode.php:85
+msgid "Default"
+msgstr ""
+
+#: inc/admin-shortcode.php:51 inc/admin-shortcode.php:52
+msgid "Button Label"
+msgstr ""
+
+#: inc/admin.php:10
+msgid "Setting Up Simple Stripe"
+msgstr ""
+
+#: inc/admin.php:86 inc/admin.php:234
+msgid "Settings"
+msgstr ""
+
+#: inc/admin.php:87
+msgid "Shortcode"
+msgstr ""
+
+#: inc/admin.php:120
+msgid "Settings updated successfully."
+msgstr ""
+
+#: inc/admin.php:149
+msgid "Support Forum"
+msgstr ""
+
+#: inc/admin.php:165
+msgid "Auto"
+msgstr ""
+
+#: inc/admin.php:166
+msgid "Arabic"
+msgstr ""
+
+#: inc/admin.php:167
+msgid "Bulgarian (Bulgaria)"
+msgstr ""
+
+#: inc/admin.php:168
+msgid "Czech (Czech Republic)"
+msgstr ""
+
+#: inc/admin.php:169
+msgid "Danish"
+msgstr ""
+
+#: inc/admin.php:170
+msgid "German (Germany)"
+msgstr ""
+
+#: inc/admin.php:171
+msgid "Greek (Greece)"
+msgstr ""
+
+#: inc/admin.php:172
+msgid "English"
+msgstr ""
+
+#: inc/admin.php:173
+msgid "English (United Kingdom)"
+msgstr ""
+
+#: inc/admin.php:174
+msgid "Spanish (Spain)"
+msgstr ""
+
+#: inc/admin.php:175
+msgid "Spanish (Latin America)"
+msgstr ""
+
+#: inc/admin.php:176
+msgid "Estonian (Estonia)"
+msgstr ""
+
+#: inc/admin.php:177
+msgid "Finnish (Finland)"
+msgstr ""
+
+#: inc/admin.php:178
+msgid "Filipino (Philipines)"
+msgstr ""
+
+#: inc/admin.php:179
+msgid "French (France)"
+msgstr ""
+
+#: inc/admin.php:180
+msgid "French (Canada)"
+msgstr ""
+
+#: inc/admin.php:181
+msgid "Hebrew (Israel)"
+msgstr ""
+
+#: inc/admin.php:182
+msgid "Croatian (Croatia)"
+msgstr ""
+
+#: inc/admin.php:183
+msgid "Hungarian (Hungary)"
+msgstr ""
+
+#: inc/admin.php:184
+msgid "Indonesian (Indonesia)"
+msgstr ""
+
+#: inc/admin.php:185
+msgid "Italian (Italy)"
+msgstr ""
+
+#: inc/admin.php:186
+msgid "Japanese"
+msgstr ""
+
+#: inc/admin.php:187
+msgid "Korean (Korea)"
+msgstr ""
+
+#: inc/admin.php:188
+msgid "Lithuanian (Lithuania)"
+msgstr ""
+
+#: inc/admin.php:189
+msgid "Latvian (Latvia)"
+msgstr ""
+
+#: inc/admin.php:190
+msgid "Malay (Malaysia)"
+msgstr ""
+
+#: inc/admin.php:191
+msgid "Maltese (Malta)"
+msgstr ""
+
+#: inc/admin.php:192
+msgid "Norwegian Bokmål"
+msgstr ""
+
+#: inc/admin.php:193
+msgid "Dutch (Netherlands)"
+msgstr ""
+
+#: inc/admin.php:194
+msgid "Polish (Poland)"
+msgstr ""
+
+#: inc/admin.php:195 inc/admin.php:196
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#: inc/admin.php:197
+msgid "Romanian (Romania)"
+msgstr ""
+
+#: inc/admin.php:198
+msgid "Russian (Russia)"
+msgstr ""
+
+#: inc/admin.php:199
+msgid "Slovak (Slovakia)"
+msgstr ""
+
+#: inc/admin.php:200
+msgid "Slovenian (Slovenia)"
+msgstr ""
+
+#: inc/admin.php:201
+msgid "Swedish (Sweden)"
+msgstr ""
+
+#: inc/admin.php:202
+msgid "Thai"
+msgstr ""
+
+#: inc/admin.php:203
+msgid "Turkish (Turkey)"
+msgstr ""
+
+#: inc/admin.php:204
+msgid "Vietnamese (Vietnam)"
+msgstr ""
+
+#: inc/admin.php:205
+msgid "Chinese Simplified (China)"
+msgstr ""
+
+#: inc/admin.php:206
+msgid "Chinese Traditional (Hong Kong)"
+msgstr ""
+
+#: inc/admin.php:207
+msgid "Chinese Traditional (Taiwan)"
+msgstr ""
+
+#: inc/admin.php:221
+msgid "Select image"
+msgstr ""
+
+#: inc/admin.php:222
+msgid "Copied"
+msgstr ""
+
+#: inc/admin.php:277
+msgid "Have a great day"
+msgstr ""
+
+#: inc/admin.php:281 inc/shortcode.php:66
+msgid "Pay"
+msgstr ""
+
+#: inc/ajax.php:48
+msgid "Settings for this payment are incomplete."
+msgstr ""
+
+#: inc/ajax.php:93
+msgid "We couldn't payment due to network problems."
+msgstr ""
+
+#: inc/ajax.php:93 inc/ajax.php:103
+msgid "Please try again later."
+msgstr ""
+
+#: inc/ajax.php:98
+msgid "We couldn't payment due to a program error."
+msgstr ""
+
+#: inc/ajax.php:103
+msgid "Stripe's server is down."
+msgstr ""
+
+#: inc/ajax.php:108
+msgid "Card company has stopped payment."
+msgstr ""
+
+#: inc/ajax.php:127
+msgid "The payment failed for an unknown reason."
+msgstr ""
+
+#: inc/currencies.php:7
+msgid "US Dollar"
+msgstr ""
+
+#: inc/currencies.php:8
+msgid "UAE Dirham"
+msgstr ""
+
+#: inc/currencies.php:9
+msgid "Afghani"
+msgstr ""
+
+#: inc/currencies.php:10
+msgid "Lek"
+msgstr ""
+
+#: inc/currencies.php:11
+msgid "Armenian Dram"
+msgstr ""
+
+#: inc/currencies.php:12
+msgid "Netherlands Antillean Guilder"
+msgstr ""
+
+#: inc/currencies.php:13
+msgid "Kwanza"
+msgstr ""
+
+#: inc/currencies.php:14
+msgid "Argentine Peso"
+msgstr ""
+
+#: inc/currencies.php:15
+msgid "Australian Dollar"
+msgstr ""
+
+#: inc/currencies.php:16
+msgid "Aruban Florin"
+msgstr ""
+
+#: inc/currencies.php:17
+msgid "Azerbaijanian Manat"
+msgstr ""
+
+#: inc/currencies.php:18
+msgid "Convertible Mark"
+msgstr ""
+
+#: inc/currencies.php:19
+msgid "Barbados Dollar"
+msgstr ""
+
+#: inc/currencies.php:20
+msgid "Taka"
+msgstr ""
+
+#: inc/currencies.php:21
+msgid "Bulgarian Lev"
+msgstr ""
+
+#: inc/currencies.php:22
+msgid "Burundi Franc"
+msgstr ""
+
+#: inc/currencies.php:23
+msgid "Bermudian Dollar"
+msgstr ""
+
+#: inc/currencies.php:24
+msgid "Brunei Dollar"
+msgstr ""
+
+#: inc/currencies.php:25
+msgid "Boliviano"
+msgstr ""
+
+#: inc/currencies.php:26
+msgid "Brazilian Real"
+msgstr ""
+
+#: inc/currencies.php:27
+msgid "Bahamian Dollar"
+msgstr ""
+
+#: inc/currencies.php:28
+msgid "Pula"
+msgstr ""
+
+#: inc/currencies.php:29
+msgid "Belarusian Ruble"
+msgstr ""
+
+#: inc/currencies.php:30
+msgid "Belize Dollar"
+msgstr ""
+
+#: inc/currencies.php:31
+msgid "Canadian Dollar"
+msgstr ""
+
+#: inc/currencies.php:32
+msgid "Congolese Franc"
+msgstr ""
+
+#: inc/currencies.php:33
+msgid "Swiss Franc"
+msgstr ""
+
+#: inc/currencies.php:34
+msgid "Chilean Peso"
+msgstr ""
+
+#: inc/currencies.php:35
+msgid "Yuan Renminbi"
+msgstr ""
+
+#: inc/currencies.php:36
+msgid "Colombian Peso"
+msgstr ""
+
+#: inc/currencies.php:37
+msgid "Costa Rican Colon"
+msgstr ""
+
+#: inc/currencies.php:38
+msgid "Cape Verde Escudo"
+msgstr ""
+
+#: inc/currencies.php:39
+msgid "Czech Koruna"
+msgstr ""
+
+#: inc/currencies.php:40
+msgid "Djibouti Franc"
+msgstr ""
+
+#: inc/currencies.php:41
+msgid "Danish Krone"
+msgstr ""
+
+#: inc/currencies.php:42
+msgid "Dominican Peso"
+msgstr ""
+
+#: inc/currencies.php:43
+msgid "Algerian Dinar"
+msgstr ""
+
+#: inc/currencies.php:44
+msgid "Egyptian Pound"
+msgstr ""
+
+#: inc/currencies.php:45
+msgid "Ethiopian Birr"
+msgstr ""
+
+#: inc/currencies.php:46
+msgid "Euro"
+msgstr ""
+
+#: inc/currencies.php:47
+msgid "Fiji Dollar"
+msgstr ""
+
+#: inc/currencies.php:48
+msgid "Falkland Islands Pound"
+msgstr ""
+
+#: inc/currencies.php:49
+msgid "Pound Sterling"
+msgstr ""
+
+#: inc/currencies.php:50
+msgid "Lari"
+msgstr ""
+
+#: inc/currencies.php:51
+msgid "Gibraltar Pound"
+msgstr ""
+
+#: inc/currencies.php:52
+msgid "Dalasi"
+msgstr ""
+
+#: inc/currencies.php:53
+msgid "Guinea Franc"
+msgstr ""
+
+#: inc/currencies.php:54
+msgid "Quetzal"
+msgstr ""
+
+#: inc/currencies.php:55
+msgid "Guyana Dollar"
+msgstr ""
+
+#: inc/currencies.php:56
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#: inc/currencies.php:57
+msgid "Lempira"
+msgstr ""
+
+#: inc/currencies.php:58
+msgid "Kuna"
+msgstr ""
+
+#: inc/currencies.php:59
+msgid "Gourde"
+msgstr ""
+
+#: inc/currencies.php:60
+msgid "Forint"
+msgstr ""
+
+#: inc/currencies.php:61
+msgid "Rupiah"
+msgstr ""
+
+#: inc/currencies.php:62
+msgid "Israeli new shekel"
+msgstr ""
+
+#: inc/currencies.php:63
+msgid "Indian Rupee"
+msgstr ""
+
+#: inc/currencies.php:64
+msgid "Iceland Krona"
+msgstr ""
+
+#: inc/currencies.php:65
+msgid "Jamaican Dollar"
+msgstr ""
+
+#: inc/currencies.php:66
+msgid "Yen"
+msgstr ""
+
+#: inc/currencies.php:67
+msgid "Kenyan Shilling"
+msgstr ""
+
+#: inc/currencies.php:68
+msgid "Som"
+msgstr ""
+
+#: inc/currencies.php:69
+msgid "Riel"
+msgstr ""
+
+#: inc/currencies.php:70
+msgid "Comoro Franc"
+msgstr ""
+
+#: inc/currencies.php:71
+msgid "Won"
+msgstr ""
+
+#: inc/currencies.php:72
+msgid "Cayman Islands Dollar"
+msgstr ""
+
+#: inc/currencies.php:73
+msgid "Tenge"
+msgstr ""
+
+#: inc/currencies.php:74
+msgid "Kip"
+msgstr ""
+
+#: inc/currencies.php:75
+msgid "Lebanese Pound"
+msgstr ""
+
+#: inc/currencies.php:76
+msgid "Sri Lanka Rupee"
+msgstr ""
+
+#: inc/currencies.php:77
+msgid "Liberian Dollar"
+msgstr ""
+
+#: inc/currencies.php:78
+msgid "Loti"
+msgstr ""
+
+#: inc/currencies.php:79
+msgid "Moroccan Dirham"
+msgstr ""
+
+#: inc/currencies.php:80
+msgid "Moldovan Leu"
+msgstr ""
+
+#: inc/currencies.php:81
+msgid "Malagasy Ariary"
+msgstr ""
+
+#: inc/currencies.php:82
+msgid "Denar"
+msgstr ""
+
+#: inc/currencies.php:83
+msgid "Kyat"
+msgstr ""
+
+#: inc/currencies.php:84
+msgid "Tugrik"
+msgstr ""
+
+#: inc/currencies.php:85
+msgid "Pataca"
+msgstr ""
+
+#: inc/currencies.php:86
+msgid "Mauritanian ouguiya"
+msgstr ""
+
+#: inc/currencies.php:87
+msgid "Mauritius Rupee"
+msgstr ""
+
+#: inc/currencies.php:88
+msgid "Rufiyaa"
+msgstr ""
+
+#: inc/currencies.php:89
+msgid "Kwacha"
+msgstr ""
+
+#: inc/currencies.php:90
+msgid "Mexican Peso"
+msgstr ""
+
+#: inc/currencies.php:91
+msgid "Malaysian Ringgit"
+msgstr ""
+
+#: inc/currencies.php:92
+msgid "Mozambique Metical"
+msgstr ""
+
+#: inc/currencies.php:93
+msgid "Namibia Dollar"
+msgstr ""
+
+#: inc/currencies.php:94
+msgid "Naira"
+msgstr ""
+
+#: inc/currencies.php:95
+msgid "Cordoba Oro"
+msgstr ""
+
+#: inc/currencies.php:96
+msgid "Norwegian Krone"
+msgstr ""
+
+#: inc/currencies.php:97
+msgid "Nepalese Rupee"
+msgstr ""
+
+#: inc/currencies.php:98
+msgid "New Zealand Dollar"
+msgstr ""
+
+#: inc/currencies.php:99
+msgid "Balboa"
+msgstr ""
+
+#: inc/currencies.php:100
+msgid "Peruvian sol"
+msgstr ""
+
+#: inc/currencies.php:101
+msgid "Kina"
+msgstr ""
+
+#: inc/currencies.php:102
+msgid "Philippine Peso"
+msgstr ""
+
+#: inc/currencies.php:103
+msgid "Pakistan Rupee"
+msgstr ""
+
+#: inc/currencies.php:104
+msgid "Zloty"
+msgstr ""
+
+#: inc/currencies.php:105
+msgid "Guarani"
+msgstr ""
+
+#: inc/currencies.php:106
+msgid "Qatari Rial"
+msgstr ""
+
+#: inc/currencies.php:107
+msgid "Romanian Leu"
+msgstr ""
+
+#: inc/currencies.php:108
+msgid "Serbian Dinar"
+msgstr ""
+
+#: inc/currencies.php:109
+msgid "Russian Ruble"
+msgstr ""
+
+#: inc/currencies.php:110
+msgid "Rwanda Franc"
+msgstr ""
+
+#: inc/currencies.php:111
+msgid "Saudi Riyal"
+msgstr ""
+
+#: inc/currencies.php:112
+msgid "Solomon Islands Dollar"
+msgstr ""
+
+#: inc/currencies.php:113
+msgid "Seychelles Rupee"
+msgstr ""
+
+#: inc/currencies.php:114
+msgid "Swedish Krona"
+msgstr ""
+
+#: inc/currencies.php:115
+msgid "Singapore Dollar"
+msgstr ""
+
+#: inc/currencies.php:116
+msgid "Saint Helena Pound"
+msgstr ""
+
+#: inc/currencies.php:117
+msgid "Leone"
+msgstr ""
+
+#: inc/currencies.php:118
+msgid "Somali Shilling"
+msgstr ""
+
+#: inc/currencies.php:119
+msgid "Surinamese Dollar"
+msgstr ""
+
+#: inc/currencies.php:120
+msgid "Dobra"
+msgstr ""
+
+#: inc/currencies.php:121
+msgid "Lilangeni"
+msgstr ""
+
+#: inc/currencies.php:122
+msgid "Baht"
+msgstr ""
+
+#: inc/currencies.php:123
+msgid "Somoni"
+msgstr ""
+
+#: inc/currencies.php:124
+msgid "Pa’anga"
+msgstr ""
+
+#: inc/currencies.php:125
+msgid "Turkish Lira"
+msgstr ""
+
+#: inc/currencies.php:126
+msgid "Trinidad and Tobago Dollar"
+msgstr ""
+
+#: inc/currencies.php:127
+msgid "New Taiwan Dollar"
+msgstr ""
+
+#: inc/currencies.php:128
+msgid "Tanzanian Shilling"
+msgstr ""
+
+#: inc/currencies.php:129
+msgid "Hryvnia"
+msgstr ""
+
+#: inc/currencies.php:130
+msgid "Uganda Shilling"
+msgstr ""
+
+#: inc/currencies.php:131
+msgid "Peso Uruguayo"
+msgstr ""
+
+#: inc/currencies.php:132
+msgid "Uzbekistan Som"
+msgstr ""
+
+#: inc/currencies.php:133
+msgid "Dong"
+msgstr ""
+
+#: inc/currencies.php:134
+msgid "Vatu"
+msgstr ""
+
+#: inc/currencies.php:135
+msgid "Tala"
+msgstr ""
+
+#: inc/currencies.php:136
+msgid "CFA Franc BEAC"
+msgstr ""
+
+#: inc/currencies.php:137
+msgid "East Caribbean Dollar"
+msgstr ""
+
+#: inc/currencies.php:138
+msgid "CFA Franc BCEAO"
+msgstr ""
+
+#: inc/currencies.php:139
+msgid "CFP Franc"
+msgstr ""
+
+#: inc/currencies.php:140
+msgid "Yemeni Rial"
+msgstr ""
+
+#: inc/currencies.php:141
+msgid "Rand"
+msgstr ""
+
+#: inc/currencies.php:142
+msgid "Zambian Kwacha"
+msgstr ""
+
+#: inc/shortcode.php:95
+msgid "Credit or debit card"
+msgstr ""
+
+#: inc/shortcode.php:130
+msgid "Payment was successful"
+msgstr ""
+
+#: inc/shortcode.php:131
+msgid "Payment failed"
+msgstr ""
+
+#: inc/shortcode.php:132
+msgid "Connecting..."
+msgstr ""
+
+#: inc/shortcode.php:133
+msgid "Falls below the minimum amount prescribed by Stripe."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Simple Stripe"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://dev.back2nature.jp/en/simple-stripe/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Just register your Stripe API key and use the shortcode.You can easily "
+"make a payment page anywhere."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "YAHMAN"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://back2nature.jp/en/"
+msgstr ""
